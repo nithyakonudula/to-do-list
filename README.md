@@ -9,6 +9,11 @@ This project was developed as part of the **Web Development – Week 04 Minor Pr
 
 ---
 
+## Live links : 
+To do List : https://stunning-gelato-2b085a.netlify.app/
+Notes app : https://stalwart-selkie-fb78b8.netlify.app/
+
+
 ## 📌 Projects
 
 ### 1. To-Do App
